@@ -32,6 +32,7 @@
 
 ##### Интерфейс
 ![Popup for new command](.github/images/popup_new_custom_command.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFogapod%2FVKBot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FFogapod%2FVKBot?ref=badge_shield)
 
 Для работы с пользовательскими командами в интерефейсе необходимо перейти на экран их настройки из главного экрана приложения. Изначально никаких команд нет. Это можно исправить, добавив несколько.
 Каждая команда содержит 5 опций, переключаемых кнопками ниже поля `ответ`
@@ -136,3 +137,7 @@
 
 #### Команда who
 Не работает в версии 0.1.0, вызывает ошибку.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFogapod%2FVKBot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FFogapod%2FVKBot?ref=badge_large)
